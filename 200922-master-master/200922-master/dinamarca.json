@@ -1,0 +1,151 @@
+{
+    "name":"seleccion_de_futbol_de_dinamarca",
+    "country_name": "dinamarca",
+    "alternative_names":["danmarks_fodboldlandshold","la_dinamita_roja","la_pandilla_olsen_el_tomate_mecanico"], 
+    "won_titles": ["Balon_bronce_1986"],
+    "captain_name": "simon_kjaer",
+    "coach_name": "kasper_hjulmand",
+    "logo":"http://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1899.png",
+    "abbreviation": "sfd",
+    "top_scorer":[
+        {
+        "pname":"JonDahlTomasson",
+        "goals":52
+        },
+        {
+        "pname":"PoulNielsen",
+        "goals":52 
+        }
+    ],
+    "stadium":[
+        {
+        "sname":"ParkenStadium",
+        "location":"Copenhague",
+        "capacity":42305
+        }
+        ],
+    "players":[
+        {
+            "playername":"Kasper",
+            "plastname":"Schmeichel",
+            "age": 35,
+            "height":189,
+            "place_of_birth": "silkeborg",
+            "position":"portero",
+            "current_club":"Leicester_City",
+            "shirt_number":1
+
+        },
+        {
+            "playername":"Joachim",
+            "plastname":"Andersen",
+            "age":26,
+            "height":190,
+            "place_of_birth": "frederiksberg",
+            "position":"defensa",
+            "current_club":"Crystal Palace Football Club",
+            "shirt_number":2
+
+        },
+        {
+            "playername":"Jannik",
+            "plastname":"Vestergaard",
+            "age":30,
+            "height":199,
+            "place_of_birth": "hvidovre",
+            "position":"defensa",
+            "current_club":"Southampton",
+            "shirt_number":3
+
+        },
+        {
+            "playername":"Simon",
+            "plastname":"Kjær",
+            "age": 33,
+            "height":190,
+            "place_of_birth": "horsens",
+            "position":"defensa",
+            "current_club":"Milan",
+            "shirt_number":4
+
+        },
+        {
+            "playername":"Joakim",
+            "plastname":"Mæhle",
+            "age":25,
+            "height":185,
+            "place_of_birth": "frederikshavn",
+            "position":"defensa",
+            "current_club":"atalanta",
+            "shirt_number":5
+
+        },
+        {
+            "playername":"Mathias",
+            "plastname":"Jensen",
+            "age":25,
+            "height":180,
+            "place_of_birth": "jerslev",
+            "position":"mediocentro",
+            "current_club":"Brentford",
+            "shirt_number":7
+
+        },
+        {
+            "playername":"Thomas",
+            "plastname":" Delaney",
+            "age":31 ,
+            "height":182,
+            "place_of_birth": "frederiksberg",
+            "position":"mediocentro",
+            "current_club":"Borussia Dortmund",
+            "shirt_number":8
+
+        },
+        {
+            "playername":"Christian",
+            "plastname":"Nørgaard",
+            "age":28 ,
+            "height":185,
+            "place_of_birth": "copenhague",
+            "position":"mediocentro",
+            "current_club":"Brentford",
+            "shirt_number":15
+
+        },
+        {
+            "playername":"Mohamed ",
+            "plastname":"Daramy",
+            "age":20 ,
+            "height":186,
+            "place_of_birth": "hvidovre",
+            "position":"delantero",
+            "current_club":"Ajax de Ámsterdam",
+            "shirt_number":9
+
+        },
+        {
+            "playername":"Kasper",
+            "plastname":"Dolberg",
+            "age":24 ,
+            "height":187,
+            "place_of_birth": "silkerborg",
+            "position":"delantero",
+            "current_club":"Nice",
+            "shirt_number":12
+
+        },
+        {
+            "playername":"Jonas",
+            "plastname":" Wind",
+            "age":23 ,
+            "height":190,
+            "place_of_birth": "hvidovre",
+            "position":"delantero",
+            "current_club":"Copenhagen",
+            "shirt_number":19
+
+        }
+    ]
+
+}
